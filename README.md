@@ -17,6 +17,8 @@
 3. Abra o projeto em seu ambiente de desenvolvimento favorito.
 4. Execute o projeto conforme as configurações do ambiente.
 
+*Obs.: Use as etapas desse guia: https://libgdx.com/wiki/start/import-and-running*
+
 ##### 🤝 - Contribuições:
 Contribuições são bem-vindas! Se você deseja contribuir para o projeto, por favor abra uma issue ou envie uma pull request.
 
